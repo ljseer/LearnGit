@@ -1,0 +1,9 @@
+﻿jinjuntao3333
+
+public class Tree{
+	public int id{get;set;}
+}
+
+
+安抚
+道理
